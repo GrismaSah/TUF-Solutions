@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **7** | 0 | 7 | 0 | `2026-10-02` |
+| **8** | 0 | 8 | 0 | `2026-10-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (7)
+### DSA (8)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -22,7 +22,8 @@
 | 0004 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [JAVA](./DSA/General/gcd-of-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
 | 0005 | [702. Largest Element](./DSA/General/largest-element) | [JAVA](./DSA/General/largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
 | 0006 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
-| 0007 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
+| 0007 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0008 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
 
 ---
 
