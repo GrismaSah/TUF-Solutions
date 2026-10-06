@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **10** | 0 | 10 | 0 | `2026-10-06` |
+| **11** | 0 | 11 | 0 | `2026-10-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (10)
+### DSA (11)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -23,9 +23,10 @@
 | 0005 | [702. Largest Element](./DSA/General/largest-element) | [JAVA](./DSA/General/largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
 | 0006 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
 | 0007 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [JAVA](./DSA/General/maximum-consecutive-ones/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0008 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
-| 0009 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0010 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
+| 0008 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [JAVA](./DSA/General/move-zeros-to-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0009 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
+| 0010 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0011 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
 
 ---
 
