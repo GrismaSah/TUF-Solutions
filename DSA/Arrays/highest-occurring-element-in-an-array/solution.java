@@ -4,17 +4,22 @@ class Solution {
         for(int num : nums){
             map.put(num, map.getOrDefault(num, 0) +1);
         }
+
         int max = 0;
-        int result = -1;
+        int maxkey = 0;
         for(Map.Entry<Integer, Integer> e : map.entrySet()){
-            int freq = e.getValue();
             int key = e.getKey();
-            if(freq > max || (freq == max && key < result)){
+            int freq = e.getValue();
+
+            if(freq > max){
                 max = freq;
-                result = key;
+                maxkey = key;
+            }
+            if(freq == max ){
+                maxkey = Math.min(maxkey, key);
             }
         }
-        return result;
+        return maxkey;
     }
 }
 
