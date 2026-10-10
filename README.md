@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **14** | 0 | 14 | 0 | `2026-10-10` |
+| **15** | 0 | 15 | 0 | `2026-10-10` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (14)
+### DSA (15)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -28,8 +28,9 @@
 | 0010 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [JAVA](./DSA/General/move-zeros-to-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
 | 0011 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
 | 0012 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
-| 0013 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0014 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
+| 0013 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [JAVA](./DSA/General/second-highest-occurring-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0014 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0015 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
 
 ---
 
