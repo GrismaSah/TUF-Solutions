@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **17** | 0 | 17 | 0 | `2026-10-19` |
+| **17** | 0 | 17 | 0 | `2026-10-24` |
 
 ---
 
@@ -18,7 +18,7 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [743. Check if the Array is Sorted I](./DSA/Arrays/check-if-the-array-is-sorted-i) | [JAVA](./DSA/Arrays/check-if-the-array-is-sorted-i/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
 | 0002 | [873. Count of odd numbers in Array](./DSA/Arrays/count-of-odd-numbers-in-array) | [JAVA](./DSA/Arrays/count-of-odd-numbers-in-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
-| 0003 | [790. Count of Prime Numbers till N](./DSA/General/count-of-prime-numbers-till-n) | [JAVA](./DSA/General/count-of-prime-numbers-till-n/solution.java) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0003 | [790. Count of Prime Numbers till N](./DSA/General/count-of-prime-numbers-till-n) | [JAVA](./DSA/General/count-of-prime-numbers-till-n/solution.java) | ⚪ Unspecified | `General` | `2026-10-24` |
 | 0004 | [116. Find missing number](./DSA/General/find-missing-number) | [JAVA](./DSA/General/find-missing-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
 | 0005 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [JAVA](./DSA/General/gcd-of-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-09-30` |
 | 0006 | [296. Highest Occurring Element in an Array](./DSA/Arrays/highest-occurring-element-in-an-array) | [JAVA](./DSA/Arrays/highest-occurring-element-in-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-10` |
