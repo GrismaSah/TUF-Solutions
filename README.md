@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **17** | 0 | 17 | 0 | `2026-10-24` |
+| **18** | 0 | 18 | 0 | `2026-10-24` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (17)
+### DSA (18)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -23,16 +23,17 @@
 | 0005 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [JAVA](./DSA/General/gcd-of-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-24` |
 | 0006 | [296. Highest Occurring Element in an Array](./DSA/Arrays/highest-occurring-element-in-an-array) | [JAVA](./DSA/Arrays/highest-occurring-element-in-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-10` |
 | 0007 | [702. Largest Element](./DSA/General/largest-element) | [JAVA](./DSA/General/largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0008 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0009 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [JAVA](./DSA/General/maximum-consecutive-ones/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0010 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [JAVA](./DSA/General/move-zeros-to-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0011 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [JAVA](./DSA/Strings/palindrome-number/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
-| 0012 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0013 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
-| 0014 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [JAVA](./DSA/General/second-highest-occurring-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0015 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0016 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
-| 0017 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/General/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0008 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [JAVA](./DSA/General/lcm-of-two-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-10-24` |
+| 0009 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0010 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [JAVA](./DSA/General/maximum-consecutive-ones/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0011 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [JAVA](./DSA/General/move-zeros-to-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0012 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [JAVA](./DSA/Strings/palindrome-number/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
+| 0013 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0014 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
+| 0015 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [JAVA](./DSA/General/second-highest-occurring-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0016 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0017 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
+| 0018 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/General/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
 
 ---
 
