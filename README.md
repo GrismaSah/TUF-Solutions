@@ -33,7 +33,7 @@
 | 0015 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
 | 0016 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [JAVA](./DSA/General/second-highest-occurring-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
 | 0017 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0018 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
+| 0018 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
 | 0019 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/General/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
 
 ---
