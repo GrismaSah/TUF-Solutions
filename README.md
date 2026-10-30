@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **20** | 0 | 20 | 0 | `2026-10-29` |
+| **21** | 0 | 21 | 0 | `2026-10-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (20)
+### DSA (21)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -28,14 +28,15 @@
 | 0010 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [JAVA](./DSA/Arrays/left-rotate-array-by-one/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
 | 0011 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [JAVA](./DSA/General/maximum-consecutive-ones/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
 | 0012 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [JAVA](./DSA/General/move-zeros-to-end/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0013 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [JAVA](./DSA/Strings/palindrome-number/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
-| 0014 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
-| 0015 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [JAVA](./DSA/Strings/reverse-a-string-ii/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-29` |
-| 0016 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
-| 0017 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [JAVA](./DSA/General/second-highest-occurring-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0018 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
-| 0019 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0020 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/General/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `General` | `2026-10-29` |
+| 0013 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [JAVA](./DSA/Strings/palindrome-check/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-30` |
+| 0014 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [JAVA](./DSA/Strings/palindrome-number/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-19` |
+| 0015 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-06` |
+| 0016 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [JAVA](./DSA/Strings/reverse-a-string-ii/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-29` |
+| 0017 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
+| 0018 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [JAVA](./DSA/General/second-highest-occurring-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0019 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-06` |
+| 0020 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0021 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/General/sum-of-highest-and-lowest-frequency/solution.java) | ⚪ Unspecified | `General` | `2026-10-29` |
 
 ---
 
